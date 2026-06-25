@@ -254,9 +254,3 @@ If you use this code, please cite:
   year      = {2026}
 }
 ```
-
----
-
-## License
-
-Please see the `LICENSE` file for details.
